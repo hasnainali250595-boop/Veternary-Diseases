@@ -1,0 +1,12 @@
+                   precision    recall  f1-score   support
+
+       Dermatitis       0.96      0.89      0.92       175
+Fungal_infections       0.89      0.75      0.82        97
+          Healthy       0.87      0.94      0.90       139
+ Hypersensitivity       0.89      0.92      0.91        63
+      demodicosis       0.99      0.99      0.99       174
+         ringworm       0.90      0.98      0.94       212
+
+         accuracy                           0.93       860
+        macro avg       0.92      0.91      0.91       860
+     weighted avg       0.93      0.93      0.92       860
